@@ -1,2 +1,2 @@
 # lorenta-bratu
-Repository for 2007 Lorenta Bratu project
+Repository for a project from 2007, when i just started with Globe-Studios. It's a basic project, nothing fancy!
